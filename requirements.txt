@@ -1,0 +1,9 @@
+streamlit
+langchain
+langgraph
+langchain-community
+langchain-google-genai
+google-generativeai
+python-dotenv
+pypdf
+langchain-text-splitters
